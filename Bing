@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Deadhub12/New-mm2-dead-hub/refs/heads/main/Script"))()
